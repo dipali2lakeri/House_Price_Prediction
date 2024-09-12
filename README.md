@@ -9,8 +9,6 @@ The dataset is obtained from Kaggle.
 
 Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
-Link For the You tube video : https://youtu.be/_DyF_ocdIf4
-
 # Model creation :
 - The first step is data science work where we take a data set from Kaggle called ‘Bengaluru_House_price.csv’.We will perform some extensive data cleaning work on it to ensure that it gives accurate results during prediction.
 
@@ -32,6 +30,3 @@ The web app has been build using basic HTML, CSS, Javascript, Flask and bootstra
 - Use multiple Algorithms
 - Optimize Flask app.py
 - Update the Front-End
-
-# For detail Knowledge For model :
-visit this blog: https://housepricepredictionproject.blogspot.com/2021/08/house-price-prediction-ml-model-webapp.html
